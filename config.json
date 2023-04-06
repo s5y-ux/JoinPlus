@@ -1,0 +1,7 @@
+{
+	"title": "Welcome",
+	"title_color": "white",
+	"sub-title": "$PLAYER_NAME",
+	"sub-title-color": "yellow",
+	"particle": "cloud"
+}
