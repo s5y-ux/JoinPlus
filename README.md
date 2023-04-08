@@ -1,3 +1,4 @@
+![download](https://user-images.githubusercontent.com/59636597/230742059-1ac83860-dc53-4285-8067-791bf1bcd26b.png)
 # Join+
 With this plugin, users will be greeted with a warm welcome message and an eye-catching particle explosion as soon as they join the server. This is a fantastic way to make new players feel welcome and engaged from the moment they enter the world. The combination of a personalized message and a visual effect is sure to create a memorable experience for anyone joining the server.
 ## What is ScriptCraft
