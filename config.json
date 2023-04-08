@@ -1,7 +1,7 @@
 {
 	"title": "Welcome",
-	"title_color": "white",
-	"sub-title": "$PLAYER_NAME",
-	"sub-title-color": "yellow",
+	"title_color": "yellow",
+	"sub_title": "Home",
+	"sub_title_color": "white",
 	"particle": "cloud"
 }
